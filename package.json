@@ -1,0 +1,25 @@
+{
+  "name": "portfolio-logo",
+  "version": "1.0.0",
+  "description": "## Objectives",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amaddatu/portfolio-logo.git"
+  },
+  "author": "Anthony Maddatu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amaddatu/portfolio-logo/issues"
+  },
+  "homepage": "https://github.com/amaddatu/portfolio-logo#readme",
+  "dependencies": {
+    "gulp": "^4.0.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-wait": "0.0.2",
+    "node-sass": "^4.11.0"
+  }
+}
